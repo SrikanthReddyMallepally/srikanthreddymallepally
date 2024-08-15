@@ -1,4 +1,6 @@
 ## Hey, I am Srikanth Reddy 👋
+[![An image of @srikanthreddymallepally's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srikanthreddymallepally)](https://holopin.io/@srikanthreddymallepally)
+
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
 <div id="badges">
 <a href="https://www.linkedin.com/in/srikanthreddymallepally/">
