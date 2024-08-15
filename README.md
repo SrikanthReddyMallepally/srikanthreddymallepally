@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 [i got this from https://github.com/warengonzaga/]:#
 ![skills](https://skillicons.dev/icons?i=html,github,bootstrap,js,mongodb,flask,css,sass,php,nodejs,react,postman,mysql,py,git,jquery,vscode&theme=light)
 
-
-### :bar_chart: GitHub stats
+<div align=center>
+:bar_chart: GitHub stats
 
 [i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
 
