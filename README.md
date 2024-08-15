@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about "Responsive web design" i am ready to help...
 - 📫 How to reach me: srikanth.reddy.mallepally99@gmail.com ...
 
+## 🔧 Technologies
+[i got this from https://github.com/warengonzaga/]:#
+![skills](https://skillicons.dev/icons?i=html,github,bootstrap,js,mongodb,flask,css,sass,php,nodejs,react,postman,mysql,py,git,jquery,vscode&theme=light)
+
 
 ### :bar_chart: GitHub stats
 
