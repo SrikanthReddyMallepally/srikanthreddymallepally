@@ -1,4 +1,13 @@
 ## Hey, I am Srikanth Reddy 👋
+[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
+<div id="badges">
+<a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/srikanthreddymallepally/)">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:srikanth.reddy.mallepally99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail Badge"/>
+</a>
+</div>
 
 ## visit my portfolio: https://srikanthreddymallepally.github.io/ 
 Here are some ideas to get you started:
